@@ -174,7 +174,6 @@ Delete User From Database
 *  **URL Params**
    `id=[integer]`
  
-None
 * **Data Params**
   
 None  
