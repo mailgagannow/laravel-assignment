@@ -78,8 +78,7 @@ None
 
     **Content:** `{ status : 200,data:{id:1,name:Rahul,address:India,age:22,points:0}, message : "List Of Users" }`
     
-    
- **2- Show Single User**
+**2- Show Single User**
 ----
   Returns json data about a specific users.
 
@@ -107,7 +106,7 @@ None
     
  
 
-   **3- Create Single User**
+**3- Create Single User**
 ----
   Create new user and store in database.
 
@@ -134,7 +133,7 @@ None
 
     **Content:** `{ status : 201,data:{id:1,name:Rahul,address:India,age:22,points:0}, message : "Created" }`
     
-    **4- Update User Points**
+**4- Update User Points**
 ----
 Increment/Decremet User Points
 * **URL**
@@ -161,7 +160,7 @@ None
 
     **Content:** `{ status : 200,data:{id:1,name:Rahul,address:India,age:22,points:0}, message : "value updated" }`   
 
- **5- Delete User**
+**5- Delete User**
 ----
 Delete User From Database
 * **URL**
