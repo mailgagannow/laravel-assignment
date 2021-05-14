@@ -28,6 +28,7 @@ $ composer install
 ### Setup
 - When you are done with installation, copy the `.env.example` file to `.env`
 
+- Add your database credentials to the necessary `env` fields
 
 
 - Generate the application key
