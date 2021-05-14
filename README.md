@@ -67,9 +67,8 @@ $ composer install
   `GET`
   
 *  **URL Params**
-
- 
-None
+    None
+    
 * **Data Params**
 
   None
@@ -94,7 +93,6 @@ None
    `id=[integer]`
 
  
-None
 * **Data Params**
 
   None
@@ -121,7 +119,6 @@ None
 *  **URL Params**
     None
  
-None
 * **Data Params**
    `name=[String]`,
    `age=[integer]`,
@@ -147,7 +144,6 @@ Increment/Decremet User Points
 *  **URL Params**
    `id=[integer]`
  
-None
 * **Data Params**
   
    `is_increment=[0/1]`
